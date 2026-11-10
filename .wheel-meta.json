@@ -1,0 +1,22 @@
+{
+  "wheel_id": 843,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-159",
+  "project": "concrete-pool-builder-gold-coast-questions-to-ask-51dc1b258b58a",
+  "parent_t1_ref": "poolbuildergoldcoast-011",
+  "node_role": "buffer",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast questions to ask",
+  "intended_url": "http://concrete-pool-builder-gold-coast-questions-to-ask-51dc1b258b58a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "561846e26129c808",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/concrete-pool-builder-gold-coast-011/",
+      "anchor": "Concrete Pool Builder Gold Coast: Site Brief Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
